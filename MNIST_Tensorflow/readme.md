@@ -40,16 +40,6 @@ O principal objetivo deste projeto foi criar um modelo capaz de identificar corr
 
    O modelo final foi salvo utilizando o formato **.keras**, que é o formato recomendado pelo TensorFlow/Keras para salvar modelos treinados.
 
-## Links de Suporte
-
-Ao longo do desenvolvimento, foram utilizados vários recursos para aprofundar o aprendizado. Aqui estão alguns links úteis:
-
-- [Documentação oficial do TensorFlow](https://www.tensorflow.org/)
-- [Keras: Redes Neurais Convolucionais](https://keras.io/examples/vision/mnist_convnet/)
-- [Conjunto de Dados MNIST](http://yann.lecun.com/exdb/mnist/)
-- [Explicação sobre One-Hot Encoding](https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/)
-- [Guia de instalação do TensorFlow](https://www.tensorflow.org/install)
-
 
 ## Conclusão
 
